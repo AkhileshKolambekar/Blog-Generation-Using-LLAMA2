@@ -1,5 +1,7 @@
 # Blog-Generation-Using-LLAMA2
 
+## Model Used :- https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
 ## The outputs are as follows
 
 ### For Common person
